@@ -1,0 +1,129 @@
+.container
+{
+    text-align:center;
+    border-radius:50px ;
+    box-sizing: border-box;
+    width:715px;
+    margin:auto;
+    background-color: #ffeebb;
+    box-shadow:10px crimson ;
+
+    
+}
+#head
+{
+    text-align: center;
+    background-color: #f8cf52;
+    color:#ff5e78;
+    height:47px;
+    width:715px ;
+    display: block;
+    box-sizing: border-box;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    font-size:35px;
+    padding:5px 0;
+}
+table{
+    max-width:100%;
+    padding:10px;
+    padding-bottom: 20px;
+   
+}
+table,th,td,tr{
+    border-spacing: 2px;
+}
+
+
+.in{
+    text-align: right;
+    background-color:#fcd1d1;
+    color:#0a0909;
+    height:40px;
+    width: 695px;
+    display: block;
+    border-radius: 6px;
+    outline:none;
+    font-size:30px;
+    border:0 #ff2904;
+    padding:10px 10px;
+    margin:10px;
+    box-shadow:10px solid chocolate ;
+    
+}
+
+button{
+    width:58px;
+    height:40px;
+    background-color:#7fe6e6;
+    color:#f83817;
+    vertical-align: middle;
+    text-align: center;
+    border-radius:50px; 
+    font-size: 17px;  
+    font-weight:bold ; 
+    box-shadow: none;
+    margin:1px 0 ; 
+    outline:2px; 
+    border-color: #7fe6e6 ;
+    font-family: arial;
+
+}
+body{
+        font-family: Arial;
+    
+}
+#back
+{
+    width:125px;
+    height:40px;
+    background-color:#7fe6e6;
+    color:#f83817;
+    vertical-align: middle;
+    text-align: center;
+    border-radius:50px; 
+    font-size:20px;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold ; 
+    box-shadow: none;
+    margin:2px; 
+    outline:2px; 
+    border-color: #7fe6e6 ;
+
+}
+#back1
+{
+    width:55px;
+    height:90px;
+    background-color:#7fe6e6;
+    color:#f83817;
+    vertical-align: middle;
+    text-align: center;
+    border-radius:50px; 
+    font-size: 20px;  
+    font-weight:bold ; 
+    box-shadow: none;
+    margin:2px; 
+    outline:2px; 
+    border-color: #7fe6e6 ;
+    margin-left:3.5px;
+
+}
+#back2
+{
+    width:58px;
+    height:40px;
+    background-color:#7fe6e6;
+    color:#f83817;
+    vertical-align: middle;
+    text-align: center;
+    border-radius:50px; 
+    font-size: 17px;  
+    font-weight:bold ; 
+    box-shadow: none;
+    margin:1px 0 ; 
+    outline:2px; 
+    border-color: #7fe6e6 ;
+    font-family: arial;
+
+}
